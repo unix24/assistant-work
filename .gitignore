@@ -1,7 +1,6 @@
 # Ignore staging and debugging files that take up absurd amounts of space.
-
 assistantwork/
-
+assistantwork/assistantwork
 php/
 staging/
 !support/php/
