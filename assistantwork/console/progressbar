@@ -1,0 +1,7 @@
+<?php 
+     // Assistant Work .
+     // (C) 2022 UNIX24. All Rights Reserved.
+     
+     // Include the Console_CommandLine package.
+     require_once 'assistantwork/console/commandline.php';
+     require_once 'assistantwork/console/progressbar.php';
